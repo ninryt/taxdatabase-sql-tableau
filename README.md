@@ -183,6 +183,7 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 - Use the provided SQL queries (above: "Sample Query 2") or write your own to:
 - Retrieve insights (e.g., travel expenses by month).
 - Perform advanced analysis for reporting purposes.
+5. Connect to SQL using Python [Establish Connection SQL-PY](./establish_connection_sql.py)
 
 Clone this repository:
    ```bash
