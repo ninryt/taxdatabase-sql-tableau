@@ -158,6 +158,10 @@ The final stage results are showcased below in GIFs for a clearer view of the p
 
 ![join](https://github.com/user-attachments/assets/23ca7a02-785a-44ff-91db-e07871bf4237)
 
+🔴 Below is an example of the Tableau dashboard showcasing:
+
+![wykres](https://github.com/user-attachments/assets/c9fc5643-09d8-4dac-9377-ee8871c0c5bc)
+
 Total expenses by year and event type.
 Interactive filters for country, event type, and date.
 
