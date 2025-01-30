@@ -3,6 +3,10 @@ This repository showcases an end-to-end process for building an SQL Azure Databa
 
 The project defines a relational database schema (Tax- Expense Schema) to efficiently manage tax-related expenses. Expenses are categorized into dimensions such as courses, conferences, and travel, with calculated columns for automated data handling. The goal is to extract actionable insights that help optimize budgets, track financial trends, and support strategic decision-making.
 
+The focus iwas on developing a Custom Query & Analysis Tool using Python frameworks: Flask or Streamlit for dynamic querying of tax and expense data. 
+In the future, Predictive Analytics & Insights using machine learning (scikit-learn) will be implemented to forecast tax-deductible expenses and detect anomalies in expense patterns.
+
+
 ---
 ![on delate cascade](https://github.com/user-attachments/assets/085f7ae0-8c4b-435c-bcd9-6fb2669bcf76)
 
@@ -178,6 +182,11 @@ The final stage results are showcased below in GIFs for a clearer view of the p
 
 Total expenses by year and event type.
 Interactive filters for country, event type, and date.
+
+
+## Connecting Python to SQL
+
+Integrating Python with SQL streamlined data processing and enabled dynamic querying, allowing users to interact with and analyze expense data in real time. This automation not only improved efficiency but also laid the foundation for future enhancements, such as predictive cost analysis and anomaly detection.
 
 ---
 ## 🔸 Contributing
