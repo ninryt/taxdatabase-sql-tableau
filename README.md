@@ -6,7 +6,7 @@ The project defines a relational database schema (Tax- Expense Schema) to effici
 ---
 ![on delate cascade](https://github.com/user-attachments/assets/085f7ae0-8c4b-435c-bcd9-6fb2669bcf76)
 
-
+---
 ## 🔸 Tools used:
 - SQL Server on Azure: Database hosting and management.
 - Azure Data Studio: Query development and data exploration.
@@ -14,6 +14,7 @@ The project defines a relational database schema (Tax- Expense Schema) to effici
 - Notepad++: Writing and editing SQL code.
 - Lucidchart: Designing the database schema and entity relationships.
 
+---
 ## 🔸 Skills Demonstrated
 As a data scientist, I applied the following skills:
 - Data Modeling: Designing a relational database for structured storage of expense data.
@@ -23,6 +24,7 @@ As a data scientist, I applied the following skills:
 - Data Retrieval + Analysis: Extracting meaningful patterns and trends from large datasets.
 - Reporting and Visualization: Presenting results with dynamic dashboards.
 
+---
 ## 🔸 Workflow
 1. Designed Entity-Relationship Diagram (ERD), defining tables, establishing relationships, and normalizing data to ensure consistency, accuracy, and scalability.
 2. Database Setup:
@@ -40,11 +42,12 @@ As a data scientist, I applied the following skills:
 - Breakdown of costs by location and event type.
 - Trends in business vs. personal travel costs.
 
-## Entity-Relationship Diagram (ERD)
 ---
+## 🔸 Entity-Relationship Diagram (ERD)
+
 🔴  [SCAN HERE THE QR CODE TO VIEW THE DATABASE ARCHITECTURE](https://github.com/user-attachments/assets/d2f7c661-5379-4546-b50c-7b19b6b1c74c) ![code i yoytube (1)](https://github.com/user-attachments/assets/d2f7c661-5379-4546-b50c-7b19b6b1c74c)
 
-
+---
 ## 🔸 Database Creation and Code Development
 The database was implemented from scratch using SQL scripts that were initially written and tested in Notepad++. 
 
@@ -117,13 +120,14 @@ GROUP BY
 
 ![github prezent](https://github.com/user-attachments/assets/c3372657-ea3a-442d-ba43-8561987e4b7a)
 
-
+---
 ## 🔸 Taxdatabase Features 
 - Multiple dimensional tables (e.g., `DimCourses`, `DimConferences`, `DimTravel`).
 - Calculated fields for total expenses, tips, and travel distance.
 - Foreign key constraints to ensure referential integrity.
 - Cascading deletes for dependent data cleanup.
 
+---
 ## 🔸 Database Deployment and Data Population: How I Set Up the Database
 After carefully writing and refining the SQL scripts in Notepad++, I deployed the entire database on Microsoft Azure and managed it using Azure Data Studio. 
 
@@ -132,6 +136,7 @@ The process involved:
 ➡️ Migrating SQL Code
 ➡️ Populating the Database
 
+---
 ## 🔸 Turning Data into Insights 
 
 Once the database was set up and populated, I wrote SQL queries to extract meaningful insights from the data. 
@@ -166,6 +171,7 @@ The final stage results are showcased below in GIFs for a clearer view of the p
 
 ![join](https://github.com/user-attachments/assets/23ca7a02-785a-44ff-91db-e07871bf4237)
 
+---
 🔴 Below is an example of the Tableau dashboard showcasing:
 
 ![wykres](https://github.com/user-attachments/assets/c9fc5643-09d8-4dac-9377-ee8871c0c5bc)
@@ -173,12 +179,16 @@ The final stage results are showcased below in GIFs for a clearer view of the p
 Total expenses by year and event type.
 Interactive filters for country, event type, and date.
 
+---
 ## 🔸 Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss your ideas.
+
+---
 
 ## 🔸 LICENSE
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
+---
 ## 🔸 How to Use
 1. Clone the repository.
 2. Open the SQL script [Taxdatabase Script](./database_script.sql) in your preferred SQL environment, such as:
