@@ -3,7 +3,9 @@ This repository showcases an end-to-end process for building an SQL Azure Databa
 
 The project defines a relational database schema (Tax- Expense Schema) to efficiently manage tax-related expenses. Expenses are categorized into dimensions such as courses, conferences, and travel, with calculated columns for automated data handling. The goal is to extract actionable insights that help optimize budgets, track financial trends, and support strategic decision-making.
 
-![github prezent](https://github.com/user-attachments/assets/c3372657-ea3a-442d-ba43-8561987e4b7a)
+---
+![on delate cascade](https://github.com/user-attachments/assets/085f7ae0-8c4b-435c-bcd9-6fb2669bcf76)
+
 
 ## 🔸 Tools used:
 - SQL Server on Azure: Database hosting and management.
@@ -39,6 +41,7 @@ As a data scientist, I applied the following skills:
 - Trends in business vs. personal travel costs.
 
 ## Entity-Relationship Diagram (ERD)
+---
 🔴  [SCAN HERE THE QR CODE TO VIEW THE DATABASE ARCHITECTURE](https://github.com/user-attachments/assets/d2f7c661-5379-4546-b50c-7b19b6b1c74c) ![code i yoytube (1)](https://github.com/user-attachments/assets/d2f7c661-5379-4546-b50c-7b19b6b1c74c)
 
 
@@ -112,6 +115,9 @@ GROUP BY
     ce.ConferenceName; -- Grouping by conference name (if available)
 ```
 
+![github prezent](https://github.com/user-attachments/assets/c3372657-ea3a-442d-ba43-8561987e4b7a)
+
+
 ## 🔸 Taxdatabase Features 
 - Multiple dimensional tables (e.g., `DimCourses`, `DimConferences`, `DimTravel`).
 - Calculated fields for total expenses, tips, and travel distance.
@@ -144,7 +150,8 @@ Below, you can see me performing live data analysis, showcasing my workflow and 
 
 [ 🔴 EXPLORE MY LIVE DATA ANALYSIS IN YOUTUBE HERE](https://github.com/user-attachments/assets/d2f7c661-5379-4546-b50c-7b19b6b1c74c)
 
-## Visualizing Insights: Migrating and Analyzing Data from Azure to Tableau
+---
+## 🔸 Visualizing Insights: Migrating and Analyzing Data from Azure to Tableau
 The final step of the project was to analyze the data and present it visually. To achieve this, I migrated the database from the Microsoft Azure server to Tableau. This required preparing the data source by connecting to the database, selecting the necessary tables, and configuring joins to define the logical relationships between the data entities. I ensured the joins were optimized to maintain query performance and avoid redundant data retrieval.
 
 Additionally, I implemented calculated fields and filters within Tableau to refine the data for specific analyses and visualizations. This allowed for the creation of dynamic dashboards and detailed visual representations that effectively showcased the results of the entire analysis. 
@@ -152,6 +159,7 @@ The combination of technical precision and visual clarity ensured the insights w
 
 The final stage results are showcased below in GIFs for a clearer view of the project.
 
+---
 🔴 Setting Logical Relationships in Tableau ⬇️
 
 ![Copy of Copy of cover UX FTI (35)](https://github.com/user-attachments/assets/4c845a93-7973-4d6a-942a-0df4e45cf9a5)
