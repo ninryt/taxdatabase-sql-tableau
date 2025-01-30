@@ -199,6 +199,13 @@ app = Flask(__name__)
 # Database connection setup
 DB_CONNECTION_STRING = "DRIVER={ODBC Driver 17 for SQL Server};SERVER=<your_server>;DATABASE=taxdatabase;UID=sqladmin;PWD=<your_password>"
 ```
+### Install flask
+
+```bash
+pip install flask flask-cors pyodbc pandas
+```
+Basic Flask App (API for Querying Expenses)
+[here](./api_querying_expenses.py)
 
 ---
 ## 🔸 Contributing
