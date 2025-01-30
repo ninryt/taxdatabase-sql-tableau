@@ -189,6 +189,17 @@ Interactive filters for country, event type, and date.
 
 Integrating Python with SQL streamlined data processing and enabled dynamic querying, allowing users to interact with and analyze expense data in real time. This automation not only improved efficiency but also laid the foundation for future enhancements, such as predictive cost analysis and anomaly detection.
 
+``` python
+from flask import Flask, request, jsonify
+import pyodbc
+import pandas as pd
+
+app = Flask(__name__)
+
+# Database connection setup
+DB_CONNECTION_STRING = "DRIVER={ODBC Driver 17 for SQL Server};SERVER=<your_server>;DATABASE=taxdatabase;UID=sqladmin;PWD=<your_password>"
+```
+
 ---
 ## 🔸 Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss your ideas.
