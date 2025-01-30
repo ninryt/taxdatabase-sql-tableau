@@ -160,6 +160,10 @@ Below, you can see me performing live data analysis, showcasing my workflow and 
 
 [ 🔴 EXPLORE MY LIVE DATA ANALYSIS IN YOUTUBE HERE](https://github.com/user-attachments/assets/d2f7c661-5379-4546-b50c-7b19b6b1c74c)
 
+# 🎥 Demo Video
+
+[![Watch the video](https://img.youtube.com/vi/XaD5T39uOAE/maxresdefault.jpg)](https://youtu.be/XaD5T39uOAE)
+
 ---
 ## 🔸 Visualizing Insights: Migrating and Analyzing Data from Azure to Tableau
 The final step of the project was to analyze the data and present it visually. To achieve this, I migrated the database from the Microsoft Azure server to Tableau. This required preparing the data source by connecting to the database, selecting the necessary tables, and configuring joins to define the logical relationships between the data entities. I ensured the joins were optimized to maintain query performance and avoid redundant data retrieval.
