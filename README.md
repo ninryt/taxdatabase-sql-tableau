@@ -158,9 +158,8 @@ Below, you can see me performing live data analysis, showcasing my workflow and 
 ➡️ Real-Time Analysis & Coding
 ​​​​​​​➡️ Demonstratin of: how I approach tasks, troubleshoot and refine queries.
 
-[ 🔴 EXPLORE MY LIVE DATA ANALYSIS IN YOUTUBE HERE](https://github.com/user-attachments/assets/d2f7c661-5379-4546-b50c-7b19b6b1c74c)
 
-# 🎥 Demo Video
+# 🎥 EXPLORE MY LIVE DATA ANALYSIS
 
 [![Watch the video](https://img.youtube.com/vi/XaD5T39uOAE/maxresdefault.jpg)](https://youtu.be/XaD5T39uOAE)
 
