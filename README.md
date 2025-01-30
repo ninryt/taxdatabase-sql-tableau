@@ -17,6 +17,7 @@ In the future, Predictive Analytics & Insights using machine learning (scikit-le
 - Tableau: Visualization of insights and reporting.
 - Notepad++: Writing and editing SQL code.
 - Lucidchart: Designing the database schema and entity relationships.
+- Python frameworks: Flask or Streamlit, for dynamic querying and forecasting.
 
 ---
 ## 🔸 Skills Demonstrated
@@ -24,7 +25,7 @@ As a data scientist, I applied the following skills:
 - Data Modeling: Designing a relational database for structured storage of expense data.
 - Data Development form scratch.
 - Database Management.
-- Data Wrangling: Writing SQL queries to clean, transform, and prepare data for analysis.
+- Data Wrangling: Writing SQL and Python queries to clean, transform, and prepare data for analysis.
 - Data Retrieval + Analysis: Extracting meaningful patterns and trends from large datasets.
 - Reporting and Visualization: Presenting results with dynamic dashboards.
 
