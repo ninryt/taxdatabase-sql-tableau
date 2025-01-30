@@ -148,19 +148,20 @@ Once the database was set up and populated, I wrote SQL queries to extract meani
 
 This included: Retrieving Data for Analysis:
 
-✅ Calculating total travel expenses (including additional costs).
-✅ Generating reports on conference and meeting costs.
-✅ Analyzing expenses across years, locations, and event types.
+- Calculating total travel expenses (including additional costs).
+- Generating reports on conference and meeting costs.
+- Analyzing expenses across years, locations, and event types.
 
 
 Below, you can see me performing live data analysis, showcasing my workflow and technical skills in action. The recording highlights:
 
 ➡️ Real-Time Analysis & Coding
 ​​​​​​​➡️ Demonstratin of: how I approach tasks, troubleshoot and refine queries.
-
+---
 
 # 🎥 EXPLORE MY LIVE DATA ANALYSIS
 
+➡️ **To open in a new tab:** Right-click the link and select **"Open link in new tab"** 🆕
 [![Watch the video](https://img.youtube.com/vi/XaD5T39uOAE/maxresdefault.jpg)](https://youtu.be/XaD5T39uOAE)
 
 ---
