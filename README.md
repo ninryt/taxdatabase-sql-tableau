@@ -198,3 +198,7 @@ Clone this repository:
    git clone https://github.com/ninryt/taxdatabase-sql-tableau.git
  ```
 
+## 👤 Author
+👤 N.B. Ryttel
+📧 [Email me](zerobughero@gmail.com)
+🔗 [Github](https://github.com/ninryt)
