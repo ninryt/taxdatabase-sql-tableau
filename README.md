@@ -1,9 +1,9 @@
 # taxdatabase-sql-tableau
-This repository showcases an end-to-end process for building an SQL Azure Database, performing data analysis, and visualizing insights. It includes SQL scripts for database architecture, table creation, initial data inserts, and deployment setup for the taxdatabase on Azure SQL. Additionally, it features data visualization and dashboard creation in Tableau.
+This repository showcases an end-to-end process for building an ![SQL Badge](https://img.shields.io/badge/SQL-FFD700) Azure Database, performing data analysis, and visualizing insights. It includes SQL scripts for database architecture, table creation, initial data inserts, and deployment setup for the taxdatabase on Azure SQL. Additionally, it features data visualization and dashboard creation in Tableau.
 
 The project defines a relational database schema (Tax- Expense Schema) to efficiently manage tax-related expenses. Expenses are categorized into dimensions such as courses, conferences, and travel, with calculated columns for automated data handling. The goal is to extract actionable insights that help optimize budgets, track financial trends, and support strategic decision-making.
 
-The focus iwas on developing a Custom Query & Analysis Tool using Python frameworks: Flask or Streamlit for dynamic querying of tax and expense data. 
+The focus iwas on developing a Custom Query & Analysis Tool using ![Python](https://img.shields.io/badge/Python-006400) frameworks: Flask or Streamlit for dynamic querying of tax and expense data. 
 In the future, Predictive Analytics & Insights using machine learning (scikit-learn) will be implemented to forecast tax-deductible expenses and detect anomalies in expense patterns.
 
 
